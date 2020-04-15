@@ -1,0 +1,40 @@
+.container {
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.form input {
+  text-align: center;
+  width: 250px;
+  padding: 1em;
+  font-size: 1rem;
+  line-height: 1.7em;
+  text-transform: uppercase;
+}
+
+.alertBackgroundColor {
+  background-color: #e94a34;
+}
+
+.alert {
+  background-color: #80291d;
+  color: white;
+  width: 250px;
+  height: 50px;
+  text-align: center;
+  padding: 20px;
+  margin: 3px auto;
+}
+
+.showRgb {
+  background-color: #54028e;
+  color: white;
+  width: 250px;
+  height: 63px;
+  text-align: center;
+  padding: 20px;
+  margin: 3px auto;
+}
